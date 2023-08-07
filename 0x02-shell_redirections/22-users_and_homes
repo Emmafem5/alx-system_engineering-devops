@@ -1,0 +1,2 @@
+#!/bin/bash
+out -d 'i' -f 1,6 /etc/passwd /etc/passwd | sort
